@@ -1,0 +1,3 @@
+bin/reversi
+src/main.o
+.vscode/
